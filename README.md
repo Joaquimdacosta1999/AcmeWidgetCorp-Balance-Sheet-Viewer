@@ -9,9 +9,25 @@ This project showcases a mock balance sheet for AcmeWidgetCorp, designed with HT
 - Hover highlights for improved interactivity
 - Elegant CSS styling and table structuring
 
+This project emphasizes:
+
+Semantic HTML5 structure
+
+Screen-reader-friendly content
+
+CSS layout and typography
+
+Dynamic and visually intuitive financial tables
 ## 🚀 Technologies Used
 - HTML5
 - CSS3
 
 ## 🔧 How to Use
 1. Clone the repository:
+
+   acme-balance-sheet/
+│
+├── index.html        # Main HTML document displaying the balance sheet
+├── styles.css        # Custom CSS styling for layout and presentation
+└── README.md         # Project documentation and setup instructions
+
